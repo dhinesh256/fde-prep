@@ -1,0 +1,206 @@
+Run 1
+Assessment: Based on the provided profile, here is an assessment of John Doe’s suitability for the **Full Stack Developer** role:
+
+---
+
+### **Suitability Assessment**
+* **Status:** Inconclusive / Potential Match
+* **Summary:** John Doe has a solid foundation with 5 years of experience and core competencies in JavaScript and TypeScript—languages commonly used across the modern full-stack ecosystem. However, the profile lacks specific evidence of full-stack breadth (frontend frameworks, backend environments, and database management).
+
+---
+
+### **Evidence Supporting the Role**
+* **Experience Level:** 5 years of experience demonstrates professional tenure, which aligns with mid-level or senior developer expectations.
+* **Core Languages:** JavaScript and TypeScript are standard, versatile technologies capable of powering both the client side (frontend) and server side (backend).
+
+---
+
+### **Missing Information**
+To fully determine suitability for a Full Stack Developer position, evidence is missing in the following areas:
+
+1. **Frontend Expertise:**
+   * No mention of core web technologies (HTML, CSS).
+   * No listed experience with frontend libraries or frameworks (e.g., React, Angular, Vue).
+2. **Backend Expertise:**
+   * No explicit mention of backend runtimes/environments (e.g., Node.js, Deno, Bun).
+   * No listed server-side frameworks (e.g., Express, NestJS).
+3. **Data Management:**
+   * No evidence of database experience (SQL such as PostgreSQL/MySQL, or NoSQL such as MongoDB).
+   * No details regarding ORMs/ODMs (e.g., Prisma, TypeORM, Mongoose).
+4. **Architecture & Tooling:**
+   * No mention of API design or consumption (REST, GraphQL).
+   * No evidence of version control (Git), testing, or deployment/cloud infrastructure (AWS, Docker, CI/CD).
+5. **Project Context:**
+   * No details regarding the nature of his 5 years of experience (e.g., whether the work was frontend-only, backend-only, or full stack).
+
+Run 2
+Assessment: Based on the provided profile, here is an assessment of John Doe's suitability for the **Full Stack Developer** role:
+
+### **Suitability Assessment**
+* **Potential Match (Inconclusive):** John Doe possesses foundational qualifications—specifically 5 years of experience and core competencies in JavaScript and TypeScript, both of which are central to modern full-stack development. However, the profile provides insufficient detail to confirm whether his experience spans both frontend and backend development.
+
+---
+
+### **Supporting Evidence from Profile**
+* **Experience Level:** 5 years of professional experience indicates mid-to-senior level general tenure.
+* **Core Languages:** Proficiency in **JavaScript** and **TypeScript**, languages commonly used across the entire stack (e.g., browser-side scripting and server-side runtimes).
+
+---
+
+### **Missing Information**
+To fully determine suitability for a Full Stack Developer position, the following critical information is missing:
+
+1. **Frontend Expertise:** No explicit mention of frontend technologies, libraries, or frameworks (e.g., HTML/CSS, React, Angular, Vue).
+2. **Backend & Server-side Experience:** No confirmation of backend runtime environments (e.g., Node.js, Deno), server-side frameworks (e.g., Express, NestJS), or API architecture (e.g., REST, GraphQL).
+3. **Database Knowledge:** No indication of experience with data persistence, including relational databases (e.g., PostgreSQL, MySQL) or NoSQL databases (e.g., MongoDB), nor ORMs.
+4. **DevOps & Infrastructure:** Lack of details regarding deployment, cloud services (e.g., AWS, GCP, Azure), containerization (e.g., Docker), or CI/CD pipelines.
+5. **Project Scope:** No context on whether the 5 years of experience were spent in full-stack, frontend-only, or backend-only environments.
+
+Run 3
+Assessment: Based on the provided profile, here is an assessment of John Doe's suitability for the Full Stack Developer role:
+
+### Suitability Assessment
+**Status:** Inconclusive / Partially Qualified (Insufficient Information)
+
+* **Relevant Qualifications:** 
+  * John Doe possesses 5 years of development experience.
+  * Proficiency in JavaScript and TypeScript is directly relevant to full-stack development, as both languages can be utilized for client-side and server-sidedevelopment.
+
+---
+
+### Missing Information
+To fully determine suitability for a **Full Stack Developer** role, evidence is missing in the following key areas:
+
+1. **Back-End Technologies:** There is no mention of server-side runtimes (e.g., Node.js, Deno), server frameworks, or experience building and maintaining APIs (e.g., REST, GraphQL).
+2. **Front-End Technologies:** There is no record of specific front-end frameworks/libraries (e.g., React, Angular, Vue), or fundamental web technologies suchas HTML and CSS.
+3. **Databases & Data Management:** There is no evidence of experience with relational (SQL) or non-relational (NoSQL) databases, data modeling, or ORMs.
+4. **DevOps & Tooling:** Details regarding version control (e.g., Git), testing frameworks, build tools, CI/CD pipelines, containerization, or cloud platformsare absent.
+5. **Role Context:** The profile does not specify whether the 5 years of experience were spent in full-stack, strictly front-end, or strictly back-end capacities.
+
+
+>>>>>>>>>>>>>>>>>> Response if empty technologies
+Assessment: ### Suitability Assessment
+
+**Candidate:** John Doe  
+**Target Role:** Full Stack Developer  
+**Status:** Cannot be determined / Insufficient evidence
+
+Based strictly on the provided profile, there is not enough evidence to determine John Doe's suitability for a Full Stack Developer role. While the candidate possesses 5 years of general experience, the profile lists no specific technical skills, tools, or relevant accomplishments to demonstrate capability in full stack development.
+
+---
+
+### Missing Information
+
+To evaluate suitability for a Full Stack Developer role, the following details are required:
+
+* **Technical Skills:** The profile states "skilled in " with no technologies listed. Evidence of both front-end (e.g., HTML/CSS, JavaScript, front-end frameworks) and back-end (e.g., server-side languages, APIs, databases) capabilities is missing.
+* **Nature of Experience:** The field, industry, and job titles associated with the 5 years of experience are unspecified (it is unknown whether this experience is in software development).
+* **Project & Work History:** No details regarding past responsibilities, architecture design, database management, or software deployment.
+
+
+>>>>>>>>>>>>>>>> Didn't catch the inplausible experience of 50 years
+
+>>>>>>>>>>>>>>>> If target is not suitable - model duely identfied and confirmed - **Status:** Not Suitable (based on provided evidence)
+
+# Day 1 — First LLM Application
+
+## Implementation
+- Provider: OpenAI
+- Model: gemini-3.8-flash
+- API integration:
+- Raw response extraction: Assessment: Based on the provided profile, here is an assessment of John Doe's suitability for the **Full Stack Developer** role:
+
+### **Suitability Assessment**
+* **Potential Match (Inconclusive):** John Doe possesses foundational qualifications—specifically 5 years of experience and core competencies in JavaScript and TypeScript, both of which are central to modern full-stack development. However, the profile provides insufficient detail to confirm whether his experience spans both frontend and backend development.
+
+---
+
+### **Supporting Evidence from Profile**
+* **Experience Level:** 5 years of professional experience indicates mid-to-senior level general tenure.
+* **Core Languages:** Proficiency in **JavaScript** and **TypeScript**, languages commonly used across the entire stack (e.g., browser-side scripting and server-side runtimes).
+
+---
+
+### **Missing Information**
+To fully determine suitability for a Full Stack Developer position, the following critical information is missing:
+
+1. **Frontend Expertise:** No explicit mention of frontend technologies, libraries, or frameworks (e.g., HTML/CSS, React, Angular, Vue).
+2. **Backend & Server-side Experience:** No confirmation of backend runtime environments (e.g., Node.js, Deno), server-side frameworks (e.g., Express, NestJS), or API architecture (e.g., REST, GraphQL).
+3. **Database Knowledge:** No indication of experience with data persistence, including relational databases (e.g., PostgreSQL, MySQL) or NoSQL databases (e.g., MongoDB), nor ORMs.
+4. **DevOps & Infrastructure:** Lack of details regarding deployment, cloud services (e.g., AWS, GCP, Azure), containerization (e.g., Docker), or CI/CD pipelines.
+5. **Project Scope:** No context on whether the 5 years of experience were spent in full-stack, frontend-only, or backend-only environments.
+
+
+## Experiments
+
+### 1. Empty Technologies
+Input: {
+  name: "John Doe",
+  yearsOfExperience: 5,
+  technologies: [],
+  targetRole: "Full Stack Developer"
+}
+Assessment: Based on the provided profile, here is the suitability assessment for the **Full Stack Developer** role:
+
+### Suitability Assessment
+* **Cannot Be Determined / Insufficient Evidence:** While John Doe has 5 years of professional experience, there is no evidence provided to demonstrate his capability or qualifications as a Full Stack Developer.
+
+### Evidence Provided
+* **Name:** John Doe
+* **Total Experience:** 5 years (field/domain unspecified)
+* **Skills:** None listed (the profile ends at "skilled in .")
+
+### Missing Information
+To properly assess suitability for a Full Stack Developer position, the following critical information is missing:
+* **Specific Skills:** No programming languages, frameworks, libraries, databases, or tools (front-end or back-end) are listed.
+* **Nature of Experience:** The profile does not specify what the 5 years of experience entail (e.g., whether it is in software engineering, web development, or an entirely unrelated field).
+* **Project/Work History:** No details regarding past responsibilities, architecture design, API development, or UI/UX implementation.
+Observation: **Status:** Cannot be determined / Insufficient evidence
+
+### 2. Implausible Experience
+Input: experience changed to 50
+Actual output:
+Observation: response didn't found it suspectible and proceeded to share the response
+
+### 3. Missing Target Role
+Input: targetRole = ""
+Actual output: **Assessment Outcome:** Unable to determine suitability.
+observation:
+**Reason:**  
+The target role has not been specified. As a result, there are no job requirements, criteria, or expectations against which John Doe's qualifications can be evaluated.
+
+---
+
+### Profile Overview (Based strictly on provided facts)
+* **Name:** John Doe
+* **Experience:** 5 years
+* **Demonstrated Skills:** JavaScript, React JS
+
+---
+
+### Missing Information
+To accurately assess John Doe's suitability, the following information is required:
+1. **Target Role Details:** Job title, seniority level, core responsibilities, and technical requirements.
+2. **Work Experience Details:** Specific roles held, industries worked in, and types of projects completed during the 5 years.
+3. **Broader Technical Proficiencies:** Additional frontend competencies (e.g., HTML, CSS, TypeScript, state management tools), testing frameworks, backend knowledge, or version control tools.
+4. **Soft Skills and Collaboration:** Experience with team leadership, agile methodologies, or cross-functional collaboration.
+Observation: identified that targetRole is missing
+
+### 4. Unsupported Kubernetes Expertise
+Observation: If target is not suitable - model duely identfied and confirmed - **Status:** Not Suitable (based on provided evidence)
+
+
+### 5. Repeated Requests
+After Run 1, Run 2, Run 3
+Observation: each time model prodcued different output
+
+## Engineering Findings
+1. for Repeated Requests, each time model prodcued different output
+2. if main expected param(targetRole, technologies) is missing , it identfied and mentioned is response. 
+3.
+
+## Current Guarantees
+What does the application actually guarantee? - it can proceed with the proper basic analysis provided the params as expected for the prompt
+
+## Missing Guarantees
+What could still go wrong? - Not sure as of now
