@@ -38,7 +38,7 @@ assessDeveloper({
   name: "John Doe",
   yearsOfExperience: 5,
   technologies: [ "JavaScript", "TypeScript" ],
-  targetRole: "Full Stack Developer"
+  targetRole: "Kubernetes Engineer"
 })
   .then((assessment) => {
     console.log("Assessment:", assessment); 
